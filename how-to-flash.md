@@ -2,6 +2,8 @@
 
 How I flashed firmware.bin to my Artillery Hornet
 
+You are responsible for your own devices. This guide comes with zero guarantees.
+
 ## Requirements
 
 - A device with Octopi (I'm using a Raspberry Pi 3B+) connected to the printer via usb
