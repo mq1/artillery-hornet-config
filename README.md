@@ -29,7 +29,7 @@ Read [this](./how-to-flash.md) if you are unsure on how to flash a marlin firmwa
 // firmware retraction (enable use firmware retraction in prusa slicer)
 #define FWRETRACT
 
-// input shaping (for improve print times)
+// input shaping
 #define INPUT_SHAPING_X
 #define INPUT_SHAPING_Y
 ```
