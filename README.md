@@ -19,6 +19,7 @@ Read [this](./how-to-flash.md) if you are unsure on how to flash a marlin firmwa
 
 // accurate progress reporting (supports remaining times needs to be enabled in prusa slicer)
 #define SET_PROGRESS_MANUALLY
+#define M73_REPORT
 
 // for marlinbft
 #define BINARY_FILE_TRANSFER
