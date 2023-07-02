@@ -4,6 +4,8 @@ Config changes for Marlin 2.1.2.1
 
 To apply to https://github.com/MarlinFirmware/Configurations/tree/release-2.1.2.1/config/examples/Artillery/Hornet
 
+Read [this](./how-to-flash.md) if you are unsure on how to flash a marlin firmware.bin
+
 ```
 // Configuration_adv.h
 
