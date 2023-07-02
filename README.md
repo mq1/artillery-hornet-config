@@ -1,8 +1,12 @@
 # artillery-hornet-config
 
-Patches for https://github.com/MarlinFirmware/Configurations
+Config changes for Marlin 2.1.2.1
+
+To apply to https://github.com/MarlinFirmware/Configurations/tree/release-2.1.2.1/config/examples/Artillery/Hornet
 
 ```
+// Configuration_adv.h
+
 // for octoprint
 #define HOST_ACTION_COMMANDS
 
