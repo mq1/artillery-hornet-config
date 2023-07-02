@@ -1,0 +1,13 @@
+diff --git a/config/examples/Artillery/Hornet/Configuration_adv.h b/config/examples/Artillery/Hornet/Configuration_adv.h
+index 5b38b5810b..48c86b8ae5 100644
+--- a/config/examples/Artillery/Hornet/Configuration_adv.h
++++ b/config/examples/Artillery/Hornet/Configuration_adv.h
+@@ -1481,7 +1481,7 @@
+ #endif // HAS_DISPLAY || DWIN_LCD_PROUI
+ 
+ // Add 'M73' to set print job progress, overrides Marlin's built-in estimate
+-//#define SET_PROGRESS_MANUALLY
++#define SET_PROGRESS_MANUALLY
+ #if ENABLED(SET_PROGRESS_MANUALLY)
+   #define SET_PROGRESS_PERCENT            // Add 'P' parameter to set percentage done
+   #define SET_REMAINING_TIME              // Add 'R' parameter to set remaining time
