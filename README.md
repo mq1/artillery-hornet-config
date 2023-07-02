@@ -32,4 +32,6 @@ Read [this](./how-to-flash.md) if you are unsure on how to flash a marlin firmwa
 // input shaping
 #define INPUT_SHAPING_X
 #define INPUT_SHAPING_Y
+#define SHAPING_FREQ_X  34.39
+#define SHAPING_FREQ_Y  40.45
 ```
